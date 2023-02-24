@@ -1,6 +1,6 @@
 /* ------------------------------------------------------------------- */
 .container{
-
+    justify-content: center;
 }
 
 h2{
@@ -15,3 +15,11 @@ h2{
     border:none;
 }
 
+.li-capitulos{
+
+}
+
+.container-videos{
+    justify-content: center;
+    display: flex;
+}
