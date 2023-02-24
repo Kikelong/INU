@@ -59,27 +59,99 @@ p{
     border: solid white;
 }
 
-.botton{
+.botton3{
     width: 200px;
     height: 152.8px;
-    /* background-image: url(../image/inu.png); */
+    background-image: url(../image/first_temp.gif);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     background-color: black;
     border: solid white;
     border-radius: 1%;
+    cursor: pointer;
 }
 
-.botton:hover{
+.botton4{
     width: 200px;
     height: 152.8px;
-    /* background-image: url(../image/inu.png); */
+    background-image: url(../image/cuarta_temp.gif);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
     background-color: black;
     border: solid white;
+    border-radius: 1%;
+    cursor: pointer;
+}
+
+.botton5{
+    width: 200px;
+    height: 152.8px;
+    background-image: url(../image/quinta_temp.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    border: solid white;
+    border-radius: 1%;
+    cursor: pointer;
+}
+
+.botton6{
+    width: 200px;
+    height: 152.8px;
+    background-image: url(../image/sexta_temp.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    border: solid white;
+    border-radius: 1%;
+    cursor: pointer;
+}
+
+.botton7{
+    width: 200px;
+    height: 152.8px;
+    background-image: url(../image/septima_temp.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    border: solid white;
+    border-radius: 1%;
+    cursor: pointer;
+}
+
+.botton8{
+    width: 200px;
+    height: 152.8px;
+    background-image: url(../image/octava_temp.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    border: solid white;
+    border-radius: 1%;
+    cursor: pointer;
+}
+
+.p-temporadas{
+    background-color: rgb(27, 72, 146); 
+    margin-top: 122px; 
+    border-radius: 10px;
+}
+.botton{
+    width: 200px;
+    height: 152.8px;
+    background-image: url(../image/first_temp.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    border: solid white;
+    border-radius: 1%;
     cursor: pointer;
 }
 
