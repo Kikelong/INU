@@ -66,6 +66,7 @@ p{
 .li-capitulos{
     margin-bottom: 40px;
     margin-right: 20px;
+    list-style: none;
 }
 
 .container-videos{
