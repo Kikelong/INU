@@ -16,6 +16,11 @@ p{
     justify-content:center;
     }
 
+.container-titulos{
+    width: 200px;
+    height: 100px;
+}
+
 .videos{
     width: 200px;
     /* height: 400px; */
