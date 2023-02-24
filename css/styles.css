@@ -9,6 +9,13 @@ h2{
     justify-content:center;
     }
 
+    
+p{
+    color:white;
+    text-align:center;
+    justify-content:center;
+    }
+
 .videos{
     width: 200px;
     /* height: 400px; */
@@ -17,6 +24,32 @@ h2{
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
+    border: none;
+    border: solid white;
+}
+
+.botton{
+    width: 200px;
+    height: 152.8px;
+    /* background-image: url(../image/inu.png); */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    border: solid white;
+    border-radius: 1%;
+}
+
+.botton:hover{
+    width: 200px;
+    height: 152.8px;
+    /* background-image: url(../image/inu.png); */
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: black;
+    border: solid white;
+    cursor: pointer;
 }
 
 .ul-capitulos{
